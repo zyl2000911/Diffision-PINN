@@ -1,1 +1,1 @@
-# Diffusion
+# Diffusion-PINN
